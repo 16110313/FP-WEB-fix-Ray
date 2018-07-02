@@ -1,0 +1,85 @@
+A:
+-Asparagus
+-Asam Jawa
+B:
+-Bawang bombay
+-Bawang putih
+-Bawang merah
+-Bayam
+-Buncis
+-Brokoli
+C:
+-Cabai
+D:
+-Daun bawang
+-Daun singkong
+-Daun seledri
+E:
+
+F:
+
+G:
+-Gambas
+H:
+
+I:
+
+J:
+-Jagung
+-Jamur
+K:
+Kacang hijau
+Kacang panjang
+Kacang polong
+Kacang tanah
+kacang merah
+Kailan
+Kangkung
+Kemiri
+Kentang
+Ketumbar
+Kubis
+Kucai
+L:
+Labu air
+Lada
+Lobak
+Lobak merah
+labu siam
+M:
+Merica
+Mint
+N:
+
+O:
+Okra
+P:
+Peria
+Petai
+Paprika
+
+Q:
+
+R:
+
+S:
+Sawi
+Selada
+Selada Air
+Seledri
+Serai
+T:
+Terung
+Timun
+Tomat
+U:
+Ubi jalar
+V:
+
+W:
+Wortel
+X:
+
+Y:
+
+Z:
